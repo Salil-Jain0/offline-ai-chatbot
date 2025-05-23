@@ -1,0 +1,12 @@
+{
+    "name": "offline-chatbot",
+    "version": "1.0.0",
+    "description": "Offline AI Chatbot using Llama.cpp",
+    "main": "index.html",
+    "scripts": {
+      "build": "python build.py",
+      "serve": "python -m http.server 8000"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
